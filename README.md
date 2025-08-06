@@ -1,10 +1,10 @@
-# Orcish Meal Planner
+# Fitmeal-Ai
 
 ![meal-planner](https://github.com/user-attachments/assets/080fca21-92fa-42a8-8e8d-0cfb6feb5863)
 
 ## Overview
 
-The Orcish Meal Planner is an easy-to-use app that helps you create daily meal plans based on the user data.
+The Fitmeal-AI is an easy-to-use app that helps you create daily meal plans based on the user data.
 
 ## Getting Started
 
@@ -67,3 +67,4 @@ Make sure to replace placeholder values with your actual API keys, and keep them
 - Login to the app
 - Enter your data in the form
 - Use your daily meal plan!
+
